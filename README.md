@@ -6,6 +6,7 @@ We were interested in exploring and visualising different styles of handwriting 
 We utilised encodings from a [convolutional autoencoder](http://people.idsia.ch/~ciresan/data/icann2011.pdf) trained on the data to compute a representation of each sample that might be indicative of style.
 We then used dimensionality reduction ([UMAP](https://arxiv.org/abs/1802.03426) and [t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsnefinal.pdf)) and clustering algorithms to explore and visualise similarities that exist amongst the writing samples.
 We found that some samples did share similarities in style such as curliness or thickness of writing.
+More details can be found on the Alan Turing Institute's [blog](https://www.turing.ac.uk/blog/where-do-we-draw-line).
 
 <p align="center"><img src="screenshot.png" width="800"></p>
 
